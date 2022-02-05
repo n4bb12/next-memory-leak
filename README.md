@@ -1,3 +1,5 @@
+> Fixed in https://github.com/vercel/next.js/releases/tag/v12.0.9 and therefore public | [Reporting Security Issues](https://github.com/vercel/next.js/blob/canary/SECURITY.md)
+
 Steps to reproduce:
 
 - Create a fresh Next.js app `yarn create next-app whatever`
